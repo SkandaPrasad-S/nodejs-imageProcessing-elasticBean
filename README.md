@@ -1,5 +1,3 @@
-Here's a sample README for your Udacity project:
-
 ---
 
 # Image Processing API
